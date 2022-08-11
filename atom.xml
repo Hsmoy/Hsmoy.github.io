@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hsmoy.github.io</id>
+    <title>Hsmoy</title>
+    <updated>2022-08-11T04:33:58.028Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hsmoy.github.io"/>
+    <link rel="self" href="https://hsmoy.github.io/atom.xml"/>
+    <subtitle>思考</subtitle>
+    <logo>https://hsmoy.github.io/images/avatar.png</logo>
+    <icon>https://hsmoy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Hsmoy</rights>
+    <entry>
+        <title type="html"><![CDATA[博客搭建]]></title>
+        <id>https://hsmoy.github.io/post/test/</id>
+        <link href="https://hsmoy.github.io/post/test/">
+        </link>
+        <updated>2022-03-21T12:33:38.000Z</updated>
+    </entry>
+</feed>
